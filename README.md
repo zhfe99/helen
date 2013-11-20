@@ -40,13 +40,21 @@ and
 Localization," in IEEE International Conference on Computer Vision
 (ICCV), 2013
 
-[2] V. Le, J. Brandt, L. Bourdev, Z. Lin and T. Huang, "Interactive
-Facial Feature Localization", in European Conference Computer Vision
-(ECCV), 2012
+[2] [V. Le](http://www.ifp.illinois.edu/~vuongle2/),
+[J. Brandt](http://www.adobe.com/technology/people/san-jose/jonathan-brandt.html),
+[L. Bourdev](http://www.cs.berkeley.edu/~lbourdev/),
+[Z. Lin](http://www.adobe.com/technology/people/san-jose/zhe-lin.html)
+and
+[T. Huang](http://www.ece.illinois.edu/directory/profile.asp?t-huang1),
+"Interactive Facial Feature Localization", in European Conference
+Computer Vision (ECCV), 2012
 
-[3] P. N. Belhumeur, D. W. Jacobs, D. J. Kriegman and N. Kumar,
-"Localizing Parts of Faces Using a Consensus of Exemplars", in IEEE
-Conference on Computer Vision and Pattern Recognition (CVPR), 2011
+[3] [P. N. Belhumeur](http://www.cs.columbia.edu/~belhumeur/),
+[D. W. Jacobs](http://www.cs.umd.edu/~djacobs/),
+[D. J. Kriegman](http://cseweb.ucsd.edu/~kriegman/) and
+[N. Kumar](http://homes.cs.washington.edu/~neeraj/), "Localizing Parts
+of Faces Using a Consensus of Exemplars", in IEEE Conference on
+Computer Vision and Pattern Recognition (CVPR), 2011
 
 
 Copyright
