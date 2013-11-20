@@ -32,9 +32,13 @@ The package of `helen.zip` contains the following files and folders:
 References
 ==========
 
-[1] F. Zhou and F. De la Torre, "Exemplar-based Graph Matching for
-Robust Facial Landmark Localization," in IEEE International Conference
-on Computer Vision (ICCV), 2013
+[1] [F. Zhou](http://www.f-zhou.com),
+[J. Brandt](http://www.adobe.com/technology/people/san-jose/jonathan-brandt.html),
+and
+[Z. Lin](http://www.adobe.com/technology/people/san-jose/zhe-lin.html),
+"Exemplar-based Graph Matching for Robust Facial Landmark
+Localization," in IEEE International Conference on Computer Vision
+(ICCV), 2013
 
 [2] V. Le, J. Brandt, L. Bourdev, Z. Lin and T. Huang, "Interactive
 Facial Feature Localization", in European Conference Computer Vision
