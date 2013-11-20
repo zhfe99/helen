@@ -2,28 +2,31 @@ Introduction
 ============
 
 This page contains the Helen dataset used in the experiments of
-exemplar-based graph matching (EGM) [1] for facial Landmark
-detection. The original Helen dataset [2] adopts a highly detailed
-annotation. We re-labeled 348 images with the same 29 landmarks as
-the LFPW dataset [3]. In addition, we provide MATLAB interface code
-for loading and visualizing the facial landmarks on images.
+[exemplar-based graph matching (EGM)](http://www.f-zhou.com/gm.html)
+[1] for facial Landmark detection. The original
+[Helen dataset](http://www.ifp.illinois.edu/~vuongle2/helen/) [2]
+adopts a highly detailed annotation. We re-labeled 348 images with the
+same 29 landmarks as the
+[LFPW dataset](http://homes.cs.washington.edu/~neeraj/projects/face-parts/)
+[3]. In addition, we provide MATLAB interface code for loading and
+visualizing the facial landmarks on images.
 
 
 Installation
 ============
 
-1. unzip "helen.zip" to your folder;
-2. Run "demoHelen".
+1. unzip `helen.zip` to your folder;
+2. Run `demoHelen`.
 
 
 Instructions
 ============
 
-The package of "helen.zip" contains the following files and folders:
+The package of `helen.zip` contains the following files and folders:
 
-- ./data: This folder contains the images and labels of the Helen dataset.
-- ./lib: This folder contains some library functions for visualizing facial landmark on images
-- ./demoHelen.m: An interface demo for visualizing image and facial landmarks.
+- `./data`: This folder contains the images and labels of the Helen dataset.
+- `./lib`: This folder contains some library functions for visualizing facial landmark on images
+- `./demoHelen.m`: An interface demo for visualizing image and facial landmarks.
 
 
 References
