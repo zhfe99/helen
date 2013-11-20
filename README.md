@@ -1,7 +1,7 @@
 Introduction
 ============
 
-This page contains the Helen dataset used in the experiments of
+This page contains the *Helen dataset* used in the experiments of
 [exemplar-based graph matching (EGM)](http://www.f-zhou.com/gm.html)
 [1] for facial Landmark detection. The original
 [Helen dataset](http://www.ifp.illinois.edu/~vuongle2/helen/) [2]
@@ -15,7 +15,7 @@ visualizing the facial landmarks on images.
 Installation
 ============
 
-1. unzip `helen.zip` to your folder;
+1. Unzip `helen.zip` to your folder;
 2. Run `demoHelen`.
 
 
