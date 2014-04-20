@@ -1,7 +1,7 @@
 Introduction
 ============
 
-This page contains the **Helen dataset** used in the experimentL of
+This page contains the **Helen dataset** used in the experiment of
 [exemplar-based graph matching (EGM)](http://www.f-zhou.com/gm.html)
 [1] for facial landmark detection. The original
 [Helen dataset](http://www.ifp.illinois.edu/~vuongle2/helen/) [2]
